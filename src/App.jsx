@@ -35,12 +35,13 @@ function App() {
 const Container = styled.div `
   width: 375px ;
   height: 600px;
-
+  position: relative;
   padding-bottom: 20px;
   margin: auto;
   margin-top: 50px;
   background-color: red;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 
 `
 
