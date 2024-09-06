@@ -18,8 +18,8 @@ const DivContainer = styled.div `
     width: 375px;
     height: 70px;
     background-color: white;
-    position: absolute;
-    bottom: -50%;
+    position: fixed;
+    bottom: 20%;
     font-family:  "Recursive", sans-serif;
     font-weight: 400;
     font-size: 18px;
