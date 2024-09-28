@@ -33,15 +33,14 @@ function App() {
 
 
 const Container = styled.div `
-  width: 375px ;
-  height: 600px;
+  width: 100vw ;
+  height: 98vh;
   position: relative;
-  padding-bottom: 20px;
-  margin: auto;
-  margin-top: 50px;
+
+
+
   background-color: red;
-  overflow-y: auto;
-  overflow-x: hidden;
+
 
 `
 

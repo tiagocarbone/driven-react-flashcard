@@ -15,11 +15,11 @@ export default function Footer({cards, cont }){
 
 const DivContainer = styled.div `
 
-    width: 375px;
+    width: 100vw;
     height: 70px;
     background-color: white;
     position: fixed;
-    bottom: 20%;
+    bottom:0%;
     font-family:  "Recursive", sans-serif;
     font-weight: 400;
     font-size: 18px;
